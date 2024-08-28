@@ -9,8 +9,8 @@
 
 <channel>
 	<title>kanamui</title>
-	<atom:link href="https://kanamui.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kanamui.github.io</link>
+	<atom:link href="https://charles-mendoza.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://charles-mendoza.github.io</link>
 	<description>portfolio</description>
 	<lastBuildDate>Thu, 09 Jun 2022 10:23:33 +0000</lastBuildDate>
 	<language>en-US</language>
